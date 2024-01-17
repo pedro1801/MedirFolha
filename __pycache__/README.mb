@@ -1,0 +1,20 @@
+Atividade "Macro no ImageJ" da materia de Visão Computacional desenvolvida por Pedro Eduardo(ra186488@ucdb.br) e Thierry Vinicius(ra188130@ucdb.br).
+
+Aplicativo desenvolvido para calcular a área de folhas.
+
+Utilizei como referencia o codigo ContaAlevinos do grupo Inovisão .
+
+Instruções:
+
+Testado no Ubuntu 22.04
+
+
+Rodamos os seguintes códigos para criar o ambiente e instalar algumas dependências:
+
+conda create -n MedirFolha
+conda activate MedirFolha
+
+conda install pip
+
+pip install opencv-python
+pip install matplotlib

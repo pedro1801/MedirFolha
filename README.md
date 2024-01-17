@@ -1,7 +1,7 @@
 MedirFolha
 
 Descrição do Projeto
-O programa MedirFolha foi desenvolvido com o propósito de controlar a área de folhas que estão sob ataque de insetos. Utilizando imagens do banco de dados disponível no seguinte link: Banco de Imagens
+O programa MedirFolha foi desenvolvido com o propósito de controlar a área de folhas que estão sob ataque de insetos. Utilizando imagens do banco de dados disponível no seguinte link: [Banco de Imagens](https://drive.google.com/drive/folders/1T0pdlIaeeTv2R09qbXxteTAP79igSJMn)
 
 Bibliotecas Utilizadas
 O projeto faz uso das seguintes bibliotecas:
@@ -12,6 +12,7 @@ numpy: Utilizada para operações numéricas eficientes, sendo valiosa para cál
 matplotlib: Empregada para a exibição de gráficos e visualização de dados, proporcionando uma representação visual das informações obtidas.
 
 Instalação das bibliotecas
+
 pip install opencv-python
 pip install numpy
 pip install matplotlib
